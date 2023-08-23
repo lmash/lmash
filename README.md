@@ -16,7 +16,7 @@ I have worked in the finance industry doing testing, both manual and automated f
 
 - 🌱 I’m currently learning Data Engineering
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=laura.machet)](https://medium.com/@omidnikrah)
+[![Laura Machet](https://github-readme-medium.vercel.app/?username=laura.machet)](https://medium.com/@laura.machet)
 
 <!--
 **lmash/lmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
