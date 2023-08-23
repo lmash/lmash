@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hello, I'm Laura
 
+## About Me
+
+```python
+laura_machet = {
+  'name': 'Laura Machet',
+  'location': 'London, UK',
+  'computer_languages': ['Python', 'SQL', 'C#', 'VBScript'],
+  'human_languages': ['English', 'German'],
+  'interests': ['Test Automation', 'Testing', 'Mechanical Keyboards', 'Growing Vegetables', 'Dance Music']
+}
+```
+
+I have worked in the finance industry doing testing, both manual and automated for many years. 
+
+- 🌱 I’m currently learning Data Engineering
 <!--
 **lmash/lmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
