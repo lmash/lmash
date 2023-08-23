@@ -6,7 +6,7 @@
 laura_machet = {
   'name': 'Laura Machet',
   'location': 'London, UK',
-  'computer_languages': ['Python', 'SQL', 'C#', 'VBScript'],
+  'computer_languages': ['Python'],
   'human_languages': ['English', 'German'],
   'interests': ['Test Automation', 'Testing', 'Mechanical Keyboards', 'Growing Vegetables', 'Dance Music']
 }
