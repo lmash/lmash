@@ -6,15 +6,16 @@
 laura_machet = {
   'name': 'Laura Machet',
   'location': 'London, UK',
-  'computer_languages': ['Python'],
+  'computer_languages': ['Python', 'SQL'],
   'human_languages': ['English', 'German'],
-  'interests': ['Test Automation', 'Testing', 'Mechanical Keyboards', 'Growing Vegetables', 'Dance Music']
+  'interests': ['Data', 'Test Automation', 'Testing', 'Mechanical Keyboards', 'The Allotment', 'Dance Music']
 }
 ```
 
 I have worked in the finance industry doing testing, both manual and automated for many years. 
 
 - 🌱 I’m currently learning Data Engineering
+- - 🔭 I’m currently working on a pipeline to transfer my Apple music and playlists to spotify (without using the Apple API)
 
 <!--
 **lmash/lmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
