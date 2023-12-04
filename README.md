@@ -1,33 +1,11 @@
-### Hello, I'm Laura
+🤩 Python enthusiast
 
-## About Me
+🖥️ Test Automation Engineer
 
-```python
-laura_machet = {
-  'name': 'Laura Machet',
-  'location': 'London, UK',
-  'computer_languages': ['Python', 'SQL'],
-  'human_languages': ['English', 'German'],
-  'interests': ['Data', 'Test Automation', 'Testing', 'Mechanical Keyboards', 'The Allotment', 'Dance Music']
-}
-```
+🌱 Data Engineering Student at [AI Core](https://www.theaicore.com/)
 
-I have worked in the finance industry doing testing, both manual and automated for many years. 
+🇬🇧 London, UK based
 
-- 🌱 I’m currently learning Data Engineering
-- - 🔭 I’m currently working on a pipeline to transfer my Apple music and playlists to spotify (without using the Apple API)
+🎶 Working on a pipeline transfer my Apple music and playlists to Spotify
 
-<!--
-**lmash/lmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏃‍♀️ 🎾 Staying active
