@@ -6,6 +6,6 @@
 
 🇬🇧 London, UK based
 
-🎶 Working on a pipeline transfer my Apple music and playlists to Spotify
+🎶 Working on a pipeline to transfer my Apple music and playlists to Spotify
 
 🏃‍♀️ 🎾 Staying active
