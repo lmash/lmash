@@ -8,4 +8,4 @@
 
 🎶 Working on a pipeline to transfer my Apple music and playlists to Spotify
 
-🏃‍♀️ 🎾 Staying active
+🏃‍♀️ 🎾 Staying active  🌶️ 🥦 🍎 🍅 🥒 Growing Veg 
