@@ -2,7 +2,7 @@
 
 🖥️ Test Automation Engineer
 
-🌱 Data Engineering Graduate at [AI Core](https://www.theaicore.com/)
+🌱 Data Engineering Graduate at [Ai Core](https://www.theaicore.com/)
 
 🇬🇧 London, UK based
 
